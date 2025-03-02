@@ -1,0 +1,7 @@
+.vscode/
+*.o
+main
+*.exe
+oldcompile.bat
+compile.bat
+savefile.txt
